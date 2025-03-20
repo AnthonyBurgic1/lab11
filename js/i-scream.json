@@ -30,10 +30,10 @@
             "image": "https://github.com/AnthonyBurgic1/lab11.git./images/chocolate-mint.svg"
         }, {
             "name": "Cookies and Cream",
-            "calories": 240,
+            "calories": 260,
             "type": "ice-cream",
-            "ingredients": ["Chocolate Syrup", "Peppermint Sprinkle", "Vanilla Base"],
-            "image": "https://github.com/AnthonyBurgic1/lab11.git./images/chocolate-mint.svg"
+            "ingredients": ["Milk", "Sugar", "Cookie Crumbles"],
+            "image": "https://github.com/AnthonyBurgic1/lab11.git./images/ice-cream-xtra2.svg"
         }
         
     ]
