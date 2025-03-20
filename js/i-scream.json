@@ -22,6 +22,19 @@
             "type": "ice-cream",
             "ingredients": ["Chocolate Syrup", "Strawberry Chunks", "Vanilla Base", "Sprinkles"],
             "image": "https://github.com/AnthonyBurgic1/lab11.git./images/strawberry-sprinkle.svg"
+        }, {
+            "name": "Mint Chocolate Chip",
+            "calories": 210,
+            "type": "Dairy",
+            "ingredients": ["Milk", "Sugar", "Mint", "Chocolate Chips"],
+            "image": "https://github.com/AnthonyBurgic1/lab11.git./images/chocolate-mint.svg"
+        }, {
+            "name": "Cookies and Cream",
+            "calories": 240,
+            "type": "ice-cream",
+            "ingredients": ["Chocolate Syrup", "Peppermint Sprinkle", "Vanilla Base"],
+            "image": "https://github.com/AnthonyBurgic1/lab11.git./images/chocolate-mint.svg"
         }
+        
     ]
 }
